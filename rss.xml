@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Bieberiffic]]></title>
+        <description><![CDATA[Bieberiffic]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 21 Mar 2016 20:38:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[In LA Baby]]></title>
+            <description><![CDATA[<article><h1>In LA Baby</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1c16065-129c-413a-a4e7-015b8723a7c7.png"></article>]]></description>
+            <link>undefinedin-la-baby/index.html</link>
+            <guid isPermaLink="false">36f0092c-92c9-45bd-912f-5098b1ebf24b</guid>
+            <pubDate>Mon, 21 Mar 2016 20:38:48 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

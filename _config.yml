@@ -1,0 +1,14 @@
+layout_spectrum: 0.8888292
+typography_spectrum: 0.90791
+color:
+  saturation: 0.9554801
+  lightness: 0.7995078
+  brandStrength: 0.3598689
+  brandColors:
+    - '#213037'
+    - '#5C5C5C'
+    - '#BCB5AB'
+    - '#FFFFFF'
+    - '#C6896E'
+  rhythmicContrast: 0.8442984
+name: Bieberiffic
